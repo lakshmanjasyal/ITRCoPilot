@@ -1,0 +1,15 @@
+[MASTER]
+init-hook=import sys; sys.path.insert(0, './backend')
+
+[MESSAGES CONTROL]
+disable=
+    missing-docstring,
+    too-many-arguments,
+    too-many-locals,
+    line-too-long,
+    fixme
+
+[DESIGN]
+max-locals=20
+max-branches=15
+max-attributes=10

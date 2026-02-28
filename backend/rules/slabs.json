@@ -1,0 +1,108 @@
+{
+    "old_regime": {
+        "basic_exemption": 250000,
+        "slabs": [
+            {
+                "min": 0,
+                "max": 250000,
+                "rate": 0.00
+            },
+            {
+                "min": 250001,
+                "max": 500000,
+                "rate": 0.05
+            },
+            {
+                "min": 500001,
+                "max": 1000000,
+                "rate": 0.20
+            },
+            {
+                "min": 1000001,
+                "max": null,
+                "rate": 0.30
+            }
+        ],
+        "rebate_87a": {
+            "max_income": 500000,
+            "max_rebate": 12500
+        },
+        "cess": 0.04,
+        "standard_deduction": 50000,
+        "surcharge": [
+            {
+                "min": 5000001,
+                "max": 10000000,
+                "rate": 0.10
+            },
+            {
+                "min": 10000001,
+                "max": 20000000,
+                "rate": 0.15
+            },
+            {
+                "min": 20000001,
+                "max": 50000000,
+                "rate": 0.25
+            },
+            {
+                "min": 50000001,
+                "max": null,
+                "rate": 0.37
+            }
+        ]
+    },
+    "new_regime": {
+        "basic_exemption": 300000,
+        "slabs": [
+            {
+                "min": 0,
+                "max": 300000,
+                "rate": 0.00
+            },
+            {
+                "min": 300001,
+                "max": 600000,
+                "rate": 0.05
+            },
+            {
+                "min": 600001,
+                "max": 900000,
+                "rate": 0.10
+            },
+            {
+                "min": 900001,
+                "max": 1200000,
+                "rate": 0.15
+            },
+            {
+                "min": 1200001,
+                "max": 1500000,
+                "rate": 0.20
+            },
+            {
+                "min": 1500001,
+                "max": null,
+                "rate": 0.30
+            }
+        ],
+        "rebate_87a": {
+            "max_income": 700000,
+            "max_rebate": 25000
+        },
+        "cess": 0.04,
+        "standard_deduction": 75000,
+        "surcharge": [
+            {
+                "min": 5000001,
+                "max": 10000000,
+                "rate": 0.10
+            },
+            {
+                "min": 10000001,
+                "max": null,
+                "rate": 0.15
+            }
+        ]
+    }
+}

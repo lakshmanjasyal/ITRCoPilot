@@ -1,0 +1,64 @@
+INTEREST CERTIFICATE
+State Bank of India
+Branch: Koramangala, Bengaluru - 560034
+IFSC: SBIN0001234
+
+Dear Customer,
+
+This is to certify the interest credited/accrued on your deposit accounts
+for the Financial Year 2024-25.
+
+Account Holder: Rahul Sharma
+PAN: ABCRS1234H
+Customer ID: 1234567890
+
+===================================================
+FIXED DEPOSIT ACCOUNTS - INTEREST DETAILS
+===================================================
+
+FD Account No: XXXXXXXXXXXXXX01
+Opening Date: 15-Apr-2023
+Maturity Date: 15-Apr-2026
+Principal Amount: Rs. 20,00,000
+Rate of Interest: 7.00% p.a.
+Interest Period: 01-Apr-2024 to 31-Mar-2025
+Interest Amount: 200000
+FD Interest earned: Rs. 2,00,000
+Total Interest Income: Rs. 2,00,000
+
+Net Interest Credited: Rs. 1,80,000
+
+===================================================
+TDS DETAILS
+===================================================
+
+TDS on interest: 20000
+TDS Deducted on Interest (10% on Rs. 2,00,000):
+TDS @ 10%: Rs. 20,000
+TDS deducted: Rs. 20,000
+Bank TDS Amount: Rs. 20,000
+
+TDS Certificate No: TDS2425SBI0001234
+Date of Deduction: 31-Mar-2025
+
+===================================================
+SAVINGS ACCOUNT INTEREST
+===================================================
+
+SB Account Interest (FY 2024-25): Rs. 4,500
+(Eligible for 80TTA deduction up to Rs. 10,000)
+
+===================================================
+SUMMARY
+===================================================
+
+Total Interest Income: Rs. 2,04,500
+Total TDS Deducted: Rs. 20,000
+Net Amount Credited: Rs. 1,84,500
+
+This certificate is computer generated and does not require signature.
+For any queries, contact your branch or call 1800-11-2211.
+
+Manager - NRI/NR Division
+State Bank of India
+Koramangala Branch, Bengaluru

@@ -1,0 +1,85 @@
+FORM NO. 16
+Certificate under Section 203 of the Income-tax Act, 1961
+for Tax Deducted at Source from Salary
+
+Name of Employer: TechCorp India Pvt Ltd
+TAN of Employer: MUMB12345A
+Address: 4th Floor, Tech Park, Bengaluru - 560001
+
+Name of Employee: Rahul Sharma
+PAN of Employee: ABCRS1234H
+Designation: Senior Software Engineer
+
+Assessment Year: 2025-26
+Financial Year: 2024-25
+Period with Employer: 01-Apr-2024 to 31-Mar-2025
+
+PART B - Details of Salary Paid and Tax Deducted Thereon
+
+1. Gross Salary:
+   (a) Salary as per provisions contained in section 17(1): Rs. 8,50,000
+   (b) Value of perquisites under section 17(2): Rs. 0
+   (c) Profits in lieu of salary under section 17(3): Rs. 0
+   Annual Salary: 850000
+
+2. Total amount of Salary received from current employer: Rs. 8,50,000
+
+3. Allowances exempt under Section 10:
+   (a) House Rent Allowance (HRA): Rs. 0
+   (b) Leave Travel Concession: Rs. 0
+
+4. Balance (3-4): Rs. 8,50,000
+
+5. Deductions:
+   (a) Standard deduction under section 16(ia): Rs. 50,000
+   (b) Entertainment allowance: Rs. 0
+   (c) Tax on employment: Rs. 2,400
+
+6. Income chargeable under the head Salaries: Rs. 7,97,600
+
+7. Add: Any other income reported by the employee
+   (i) Income under the head Other Sources: Rs. 0
+
+8. Gross total income (6+7): Rs. 7,97,600
+
+9. Deductions under Chapter VI-A:
+   (a) Section 80C:
+       - EPF Employee Contribution: Rs. 50,000
+       - PPF Investment: Rs. 50,000
+       - ELSS Mutual Fund: Rs. 50,000
+       Total 80C: Rs. 1,50,000
+       Section 80C total: 150000
+   (b) Section 80D - Health Insurance Premium:
+       - Self + Family: Rs. 25,000
+       Section 80D: 25000
+   (c) Section 80CCD(1B) - NPS: Rs. 0
+   Total deductions under Chapter VI-A: Rs. 1,75,000
+
+10. Aggregate of Chapter VI-A deductions: Rs. 1,75,000
+
+11. Taxable Income (8-10): Rs. 6,22,600
+
+12. Tax on total income: Rs. 37,520
+
+13. Rebate under section 87A: Rs. 0
+
+14. Tax after rebate: Rs. 37,520
+
+15. Surcharge: Rs. 0
+
+16. Education cess at 4%: Rs. 1,501
+
+17. Total Tax: Rs. 39,021
+
+18. Relief under section 89: Rs. 0
+
+19. Net Tax Payable: Rs. 39,021
+
+20. Tax Deducted at Source:
+    Income Tax Deducted: 65000
+    TDS deducted: Rs. 65,000
+    Tax Deducted at Source: Rs. 65,000
+    Total TDS deposited: Rs. 65,000
+
+Signature Verified
+Date: 14-Jun-2025

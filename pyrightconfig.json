@@ -1,0 +1,9 @@
+{
+  "include": ["backend", "*.py"],
+  "pythonVersion": "3.10",
+  "typeCheckingMode": "basic",
+  "pythonPath": ".",
+  "extraPaths": ["backend"],
+  "reportMissingImports": false,
+  "reportUnresolvedImport": false
+}

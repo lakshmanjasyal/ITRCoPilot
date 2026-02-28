@@ -1,0 +1,76 @@
+{
+    "old_regime_deductions": {
+        "section_80c": {
+            "limit": 150000,
+            "description": "Investments in PPF, ELSS, LIC premium, EPF, NSC, home loan principal, tuition fees etc.",
+            "components": [
+                "PPF",
+                "ELSS",
+                "LIC",
+                "EPF",
+                "NSC",
+                "Home Loan Principal",
+                "Tuition Fees",
+                "Sukanya Samriddhi",
+                "FD (5 years)"
+            ]
+        },
+        "section_80ccc": {
+            "limit": 150000,
+            "combined_with_80c": true,
+            "description": "Contribution to pension funds"
+        },
+        "section_80ccd1": {
+            "limit": 150000,
+            "combined_with_80c": true,
+            "description": "NPS employee contribution"
+        },
+        "section_80ccd1b": {
+            "limit": 50000,
+            "combined_with_80c": false,
+            "description": "Additional NPS contribution (over 80C limit)"
+        },
+        "section_80d": {
+            "self_family_limit": 25000,
+            "senior_citizen_limit": 50000,
+            "description": "Health insurance premiums",
+            "covers": [
+                "self",
+                "spouse",
+                "children",
+                "parents"
+            ]
+        },
+        "section_80e": {
+            "limit": null,
+            "description": "Interest on education loan (no upper limit)"
+        },
+        "section_80g": {
+            "limit": null,
+            "description": "Donations to approved funds (50% or 100% deductible)"
+        },
+        "section_80tta": {
+            "limit": 10000,
+            "description": "Interest on savings bank account (non-senior citizens)"
+        },
+        "section_80ttb": {
+            "limit": 50000,
+            "description": "Interest on deposits for senior citizens"
+        },
+        "section_24b": {
+            "limit": 200000,
+            "description": "Interest on home loan for self-occupied property"
+        },
+        "standard_deduction": {
+            "amount": 50000,
+            "description": "Flat standard deduction for salaried individuals"
+        }
+    },
+    "new_regime_deductions": {
+        "standard_deduction": {
+            "amount": 75000,
+            "description": "Enhanced standard deduction under new regime (FY 2024-25)"
+        },
+        "note": "Most deductions not available under new regime except standard deduction and employer NPS contribution"
+    }
+}
